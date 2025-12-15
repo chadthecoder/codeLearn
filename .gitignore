@@ -1,0 +1,126 @@
+############################
+# Unity
+############################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache
+/.vs/
+.vscode/
+
+# Unity meta data cache
+*.pidb.meta
+*.pdb.meta
+
+# Unity Addressables & Packages cache
+**/Assets/AddressableAssetsData/*/*.bin*
+
+# Crash reports
+sysinfo.txt
+
+############################
+# C / C++
+############################
+
+# Object files
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+*.dbg
+
+# Build directories
+/build/
+bin/
+obj/
+
+############################
+# Assembly
+############################
+
+# Assembler outputs
+*.lst
+*.sym
+*.map
+
+# Object & binary files (shared with C/C++)
+*.hex
+*.bin
+
+############################
+# IDE / Editor
+############################
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.filters
+*.user
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains
+.idea/
+*.iml
+
+############################
+# OS Files
+############################
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
